@@ -1,0 +1,1 @@
+module.exports = ['good.js', '2.js'];
