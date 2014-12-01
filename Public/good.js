@@ -1,4 +1,4 @@
 setTimeout(function() {
-  console.log('good it worked');
+  document.getElementById('status').innerHTML = 'done';
 }, 400);
 
